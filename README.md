@@ -4,8 +4,11 @@
    php artisan migrate
    <br>
    php artisan db:seed
+   <br>
 Then login :
+<br>
    m@admin.com
+   <br>
    12345678
    
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
