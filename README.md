@@ -1,6 +1,8 @@
 ## Install
- composer install
+   composer install
+   <br>
    php artisan migrate
+   <br>
    php artisan db:seed
 Then login :
    m@admin.com
